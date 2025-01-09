@@ -256,7 +256,7 @@ function handleButtonClick() {
 document.querySelectorAll(".h2").forEach((item) => {
   item.textContent = item.textContent.replace(
     "BERJAYA RM 1000",
-    "BERJAYA RM450"
+    "BERJAYA RM500"
   );
 });
 
